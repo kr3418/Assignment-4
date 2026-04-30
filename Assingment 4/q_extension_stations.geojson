@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "station_name": "106 St",
+                "Population": 42000,
+                "Nearby": "Central Park, Museum of City of New York"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94243581202747,
+                    40.790622284108565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "station_name": "116 St",
+                "Population": 45000,
+                "Nearby": "East River Plaza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93776875196394,
+                    40.797015668445255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "station_name": "125 Lexington Ave",
+                "Population": 30000,
+                "Nearby": "Metro North Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.93742416049083,
+                    40.804382210356096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "station_name": "125 Lenox Ave",
+                "Population": 40000,
+                "Nearby": "Harlem Hospital, Harlem Shake!"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94549711830992,
+                    40.80777797063354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "station_name": "125 St Nicholas Ave",
+                "Population": 38000,
+                "Nearby": "Apollo Theater"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.95259077552123,
+                    40.810767812621435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "station_name": "125 Broadway",
+                "Population": 38000,
+                "Nearby": "Columbia University"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9583,
+                    40.8157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "station_name": "137 St",
+                "Population": 34000,
+                "Nearby": "City College of New York, Riverside Park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9545,
+                    40.8210
+                ]
+            }
+        }
+    ]
+}
